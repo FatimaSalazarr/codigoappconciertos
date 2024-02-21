@@ -1,0 +1,7 @@
+﻿  PF_PG_FSL.cpp
+C:\Users\fs012\source\repos\PF_PG_FSL\PF_PG_FSL\PF_PG_FSL.cpp(495,41): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\fs012\source\repos\PF_PG_FSL\PF_PG_FSL\PF_PG_FSL.cpp(589,41): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\fs012\source\repos\PF_PG_FSL\PF_PG_FSL\PF_PG_FSL.cpp(683,41): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\fs012\source\repos\PF_PG_FSL\PF_PG_FSL\PF_PG_FSL.cpp(760,38): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\fs012\source\repos\PF_PG_FSL\PF_PG_FSL\PF_PG_FSL.cpp(1301,19): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  PF_PG_FSL.vcxproj -> C:\Users\fs012\source\repos\PF_PG_FSL\Debug\PF_PG_FSL.exe
